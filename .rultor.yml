@@ -1,9 +1,9 @@
 architect:
-  - kerelape
+  - avatar46
 
 merge:
   commanders:
-    - kerelape
+    - avatar46
 
   script: |
     ./gradlew test
