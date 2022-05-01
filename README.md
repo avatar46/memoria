@@ -56,3 +56,5 @@ val twin = StringMemory(
 twin.write("twin me!") // -> will write the value to both sources, ram and file
 twin.value() // -> returns value stored in ram, the first (origin) argument of the constructor
 ```
+
+aaa
